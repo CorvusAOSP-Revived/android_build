@@ -837,6 +837,8 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("                                              ");
   script.Print("    by Ritzz, DeadmanxXD, Jughead, Zeeshan,   ");
   script.Print("              Victor & Trishiraj              ");
+  script.Print("					      ");
+  script.Print(" Revived Project by Arijit Saha (@whyred_404) ");
   script.Print("----------------------------------------------");
   script.Print(" Android version: %s"%(android_version));
   script.Print(" Build id: %s"%(build_id));
